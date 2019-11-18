@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.5'
 
 
 gem 'devise'
+gem 'active_storage_drag_and_drop'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
